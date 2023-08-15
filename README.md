@@ -1,14 +1,19 @@
 # PengalamanBelajar
-Repository ini Berisi Pengalaman Belajarku di Dicoding
 
-15 Agustus 2023
---
-Belajar kelas Git/GitHub. (Progress 38%)
-* Belajar tentang Git, jenis dan cara menggunakannya
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-nyoba aj ini :v 
-15 Juni 2021
---
+
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
+
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
@@ -16,3 +21,12 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
+
+
+ .
+         
+Markdown language .md:
+- https://www.markdownguide.org/getting-started/
+- https://www.markdownguide.org/basic-syntax/
+
+note: buat pelatihan
